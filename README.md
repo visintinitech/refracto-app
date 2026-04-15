@@ -1,7 +1,32 @@
 
 # 🔮 Refracto
 
-**Refracto** analiza tu estilo de escritura y te muestra un perfil con métricas como formalidad, complejidad, repetición, riqueza léxica, legibilidad y tono emocional.
+🔮 Refracto
+Refracto es una herramienta de análisis de escritura que descompone cualquier texto en un perfil lingüístico completo. Como un prisma que separa la luz en colores, Refracto revela las dimensiones ocultas de tu forma de escribir.
+
+Métricas que analiza:
+
+Formalidad — Detecta si tu texto es profesional, neutral o coloquial, analizando pronombres personales, contracciones y muletillas.
+
+Complejidad — Mide la estructura de tus oraciones y la longitud de tus palabras. Textos más complejos suelen tener oraciones más largas y vocabulario elaborado.
+
+Repetición — Identifica palabras que usas en exceso. Una repetición alta puede hacer que tu texto sea monótono o redundante.
+
+Riqueza léxica — Evalúa la variedad de tu vocabulario. Cuanto más único sea tu conjunto de palabras, más rico se considera tu estilo.
+
+Legibilidad — Calcula qué tan fácil es leer y entender tu texto, usando el índice Flesch adaptado al español.
+
+Tono emocional — Detecta si tu escritura es positiva, negativa o neutral, además de medir su subjetividad.
+
+Además, Refracto incluye:
+
+💡 Recomendaciones personalizadas para mejorar tu estilo
+
+📚 Historial automático de todos tus análisis
+
+⚔️ Comparador lado a lado de dos textos
+
+Ideal para escritores, estudiantes, profesionales y cualquier persona que quiera entender y mejorar su forma de escribir.
 
 ---
 
