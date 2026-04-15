@@ -1,7 +1,6 @@
 
 # 🔮 Refracto
 
-🔮 Refracto
 Refracto es una herramienta de análisis de escritura que descompone cualquier texto en un perfil lingüístico completo. Como un prisma que separa la luz en colores, Refracto revela las dimensiones ocultas de tu forma de escribir.
 
 Métricas que analiza:
